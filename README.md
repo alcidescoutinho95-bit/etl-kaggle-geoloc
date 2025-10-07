@@ -1,4 +1,4 @@
-# 🛠️ Projeto ETL Geoespacial com Docker, MinIO, PostgreSQL e Spark
+# 🛠️ Projeto ETL Kaggle-Uber dataset
 
 Este projeto implementa uma **pipeline ETL (Extract, Transform, Load)** com foco em dados geoespaciais públicos do U.S. Census Bureau, utilizando tecnologias modernas de processamento e armazenamento de dados em um ambiente **100% Dockerizado**.
 
