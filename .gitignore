@@ -19,7 +19,7 @@ spark-config
 conf
 
 # Ignorar arquivos de configuração
-requirements.txt
+# requirements.txt
 docker-compose.yaml
 Dockerfile
 Dockerfile.airflow-worker
